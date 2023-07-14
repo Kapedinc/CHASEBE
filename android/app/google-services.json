@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "550795595830",
+    "project_id": "chasebe-3b7b1",
+    "storage_bucket": "chasebe-3b7b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550795595830:android:7ab280506026ec33b78897",
+        "android_client_info": {
+          "package_name": "com.caratcardclub.chasebe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550795595830-tp6tl3jmtmneu2nskjvo3q5eai6mb82h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.caratcardclub.chasebe",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "550795595830-ueqsilonfvrumvg5pkc1vsn45lb9mfac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Zw0bxQWcfE9hGKGVpvny4J-0orrpRKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550795595830-ueqsilonfvrumvg5pkc1vsn45lb9mfac.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "550795595830-pmffdntir322a96d9poj1ps9ihlaiv92.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.caratcardclub.chasebe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
